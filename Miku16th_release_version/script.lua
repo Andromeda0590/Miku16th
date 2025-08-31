@@ -222,7 +222,7 @@ end
 --add wings dampen so it doesnt stick to the body movement
 
 local action = mainPage:newAction()
-    :title("test")
+    :title("gesture")
     :item("diamond")
     :hoverColor(0,0,0)
     :onLeftClick(pings.anim)
